@@ -1,3 +1,18 @@
+/* 
+==================
+Variables
+==================
+*/
+:root {
+	--primaryColor: #f15025;
+	--mainBlack: #222;
+	--mainWhite: #fff;
+	--offWhite: #f7f7f7;
+	--darkGrey: #afafaf;
+	--mainTransition: all 0.3 linear;
+	--mainSpacing: 0.2rem;
+}
+
 body {
 	background-color: purple;
 	font-family: 'Fira Code', monospace;
